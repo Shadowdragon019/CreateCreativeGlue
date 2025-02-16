@@ -1,0 +1,18 @@
+{
+	"required": true,
+	"package": "com.roxxane.creative_glue.mixins",
+	"compatibilityLevel": "JAVA_17",
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"refmap": "mixins.creative_glue.refmap.json",
+	"mixins": [
+		"MixinAllPackets",
+		"MixinContraption",
+		"MixinPistonContraption",
+		"MixinSuperGlueEntity",
+		"MixinSuperGlueHandler",
+		"MixinSuperGlueSelectionHandler",
+		"MixinSuperGlueSelectionPacket"
+	]
+}
