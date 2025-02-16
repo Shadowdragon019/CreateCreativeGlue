@@ -1,7 +1,7 @@
-package com.roxxane.creative_glue;
+package lol.roxxane.creative_glue;
 
 import com.mojang.logging.LogUtils;
-import com.roxxane.creative_glue.mixin_interfacese.SuperGlueEntityInterface;
+import lol.roxxane.creative_glue.mixin_interfacese.SuperGlueEntityInterface;
 import com.simibubi.create.content.contraptions.glue.SuperGlueEntity;
 import com.simibubi.create.content.contraptions.glue.SuperGlueItem;
 import com.tterrag.registrate.Registrate;

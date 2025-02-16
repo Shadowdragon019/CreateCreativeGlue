@@ -1,6 +1,6 @@
-package com.roxxane.creative_glue.mixins;
+package lol.roxxane.creative_glue.mixins;
 
-import com.roxxane.creative_glue.CgEffectPacket;
+import lol.roxxane.creative_glue.CgEffectPacket;
 import com.simibubi.create.AllPackets;
 import com.simibubi.create.foundation.networking.SimplePacketBase;
 import net.minecraft.network.FriendlyByteBuf;

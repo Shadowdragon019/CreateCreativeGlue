@@ -1,4 +1,4 @@
-package com.roxxane.creative_glue.mixin_interfacese;
+package lol.roxxane.creative_glue.mixin_interfacese;
 
 public interface SuperGlueEntityInterface {
 	boolean cg$isCreative();

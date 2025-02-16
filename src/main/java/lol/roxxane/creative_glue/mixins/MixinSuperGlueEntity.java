@@ -1,7 +1,7 @@
-package com.roxxane.creative_glue.mixins;
+package lol.roxxane.creative_glue.mixins;
 
-import com.roxxane.creative_glue.Cg;
-import com.roxxane.creative_glue.mixin_interfacese.SuperGlueEntityInterface;
+import lol.roxxane.creative_glue.Cg;
+import lol.roxxane.creative_glue.mixin_interfacese.SuperGlueEntityInterface;
 import com.simibubi.create.content.contraptions.glue.SuperGlueEntity;
 import com.simibubi.create.content.schematics.requirement.ISpecialEntityItemRequirement;
 import net.minecraft.core.particles.ItemParticleOption;

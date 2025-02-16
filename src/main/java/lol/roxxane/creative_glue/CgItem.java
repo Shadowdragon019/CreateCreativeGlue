@@ -1,4 +1,4 @@
-package com.roxxane.creative_glue;
+package lol.roxxane.creative_glue;
 
 import com.simibubi.create.content.contraptions.glue.SuperGlueItem;
 import com.simibubi.create.foundation.utility.VecHelper;

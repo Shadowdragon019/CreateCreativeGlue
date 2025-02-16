@@ -1,8 +1,8 @@
-package com.roxxane.creative_glue.mixins;
+package lol.roxxane.creative_glue.mixins;
 
 import com.llamalad7.mixinextras.injector.ModifyExpressionValue;
 import com.llamalad7.mixinextras.sugar.Local;
-import com.roxxane.creative_glue.Cg;
+import lol.roxxane.creative_glue.Cg;
 import com.simibubi.create.content.contraptions.piston.PistonContraption;
 import net.minecraft.core.BlockPos;
 import net.minecraft.world.level.Level;

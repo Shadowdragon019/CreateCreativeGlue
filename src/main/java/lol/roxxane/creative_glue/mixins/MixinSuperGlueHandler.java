@@ -1,9 +1,9 @@
-package com.roxxane.creative_glue.mixins;
+package lol.roxxane.creative_glue.mixins;
 
 import com.llamalad7.mixinextras.injector.ModifyExpressionValue;
 import com.llamalad7.mixinextras.sugar.Local;
-import com.roxxane.creative_glue.Cg;
-import com.roxxane.creative_glue.CgEffectPacket;
+import lol.roxxane.creative_glue.Cg;
+import lol.roxxane.creative_glue.CgEffectPacket;
 import com.simibubi.create.content.contraptions.glue.SuperGlueEntity;
 import com.simibubi.create.content.contraptions.glue.SuperGlueHandler;
 import com.simibubi.create.content.contraptions.glue.SuperGlueItem;

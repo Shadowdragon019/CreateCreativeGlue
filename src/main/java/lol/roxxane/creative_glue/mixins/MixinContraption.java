@@ -1,4 +1,4 @@
-package com.roxxane.creative_glue.mixins;
+package lol.roxxane.creative_glue.mixins;
 
 import com.llamalad7.mixinextras.injector.ModifyExpressionValue;
 import com.llamalad7.mixinextras.lib.apache.commons.tuple.Pair;
@@ -6,7 +6,7 @@ import com.llamalad7.mixinextras.sugar.Local;
 import com.llamalad7.mixinextras.sugar.Share;
 import com.llamalad7.mixinextras.sugar.ref.LocalIntRef;
 import com.llamalad7.mixinextras.sugar.ref.LocalRef;
-import com.roxxane.creative_glue.Cg;
+import lol.roxxane.creative_glue.Cg;
 import com.simibubi.create.content.contraptions.Contraption;
 import com.simibubi.create.content.contraptions.StructureTransform;
 import com.simibubi.create.content.contraptions.glue.SuperGlueEntity;

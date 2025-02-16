@@ -1,4 +1,4 @@
-package com.roxxane.creative_glue;
+package lol.roxxane.creative_glue;
 
 import net.minecraft.core.HolderLookup;
 import net.minecraft.data.PackOutput;

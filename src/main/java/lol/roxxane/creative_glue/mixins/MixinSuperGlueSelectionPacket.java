@@ -1,8 +1,8 @@
-package com.roxxane.creative_glue.mixins;
+package lol.roxxane.creative_glue.mixins;
 
 import com.llamalad7.mixinextras.sugar.Local;
-import com.roxxane.creative_glue.Cg;
-import com.roxxane.creative_glue.CgItem;
+import lol.roxxane.creative_glue.Cg;
+import lol.roxxane.creative_glue.CgItem;
 import com.simibubi.create.content.contraptions.glue.SuperGlueEntity;
 import com.simibubi.create.content.contraptions.glue.SuperGlueSelectionPacket;
 import com.simibubi.create.foundation.networking.SimplePacketBase;

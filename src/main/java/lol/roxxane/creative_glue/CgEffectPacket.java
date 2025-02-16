@@ -1,4 +1,4 @@
-package com.roxxane.creative_glue;
+package lol.roxxane.creative_glue;
 
 import com.simibubi.create.foundation.networking.SimplePacketBase;
 import net.minecraft.client.Minecraft;
